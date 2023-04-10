@@ -2,7 +2,7 @@ Auth:
   project_token: b5009f8c-7ec5-4895-a8c5-6e04455042c7
   customer_token: df0d4185-7142-4ce1-999e-25eb8a76e80a
 SAST:
-  language: codeql
+  language: "codeql"
 SCA:
-  language: codeql
+  language: "codeql"
 Secret_Scan: true
